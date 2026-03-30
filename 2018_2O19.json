@@ -1,438 +1,437 @@
 [
-  {
-    "type": "pageInfo",
-    "kind": "subjective",
-    "course_title": "Algebra and trigonometry",
-    "code": "DAE 303.1",
-    "session": "2018/2019",
-    "topics":["Environmental Education", "Adult Education", "Ecology", "Biology", "Socio-economics", "Sustainable Development", "Development", "Environment", "History", "Literacy", "Environmental Policy", "International Relations", "UNEP", "Deforestation", "Conservation", "Climate", "Energy", "Resources", "Pollution", "Health", "Waste Management", "Safety"],
-    "time": "90"
+{
+  "type": "pageInfo",
+  "kind": "subjective",
+  "course_title": "Introduction to Environmental Adult Education",
+  "code": "DAE 303.1",
+  "session": "2018/2019",
+  "topics": ["Environmental Education", "Adult Education", "Ecology", "Biology", "Socio-economics", "Sustainable Development", "Development", "Environment", "History", "Literacy", "Environmental Policy", "International Relations", "UNEP", "Deforestation", "Conservation", "Climate", "Energy", "Resources", "Pollution", "Health", "Waste Management", "Safety"],
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Instruction: Answer one question only from each session"
+},
+{
+  "type": "heading",
+  "heading": "Section A"
+},
+{
+  "type": "heading",
+  "heading": "Question 1"
+},
+{
+  "type": "Question",
+  "name": "Question 1a",
+  "topic": ["Environmental Education", "Adult Education"],
+  "Question": {
+    "content": "Define the concept environment.",
+    "type": "subjective"
   },
-  {
-    "type": "Instruction",
-    "content": "Instruction: Answer one question only from each session"
+  "Answer": {
+    "type": "string",
+    "content": "The environment is the sum total of all external conditions and influences that affect the life, development, and survival of an organism."
   },
-  {
-    "type": "heading",
-    "heading": "Section A"
-  },
-  {
-    "type": "heading",
-    "heading": "Question 1"
-  },
-  {
-    "type": "Question",
-    "name": "Question 1a",
-    "topic": ["Environmental Education", "Adult Education"],
-    "Question": {
-      "content": "Define the concept environment.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "The environment is the sum total of all external conditions and influences that affect the life, development, and survival of an organism."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Environment</h4><p>The word 'environment' comes from the French word 'environner' meaning 'to surround'. It includes everything around us – both living (biotic) like plants, animals, and microorganisms, and non-living (abiotic) like air, water, soil, sunlight, temperature, and even human-made structures. This interaction between organisms and their surroundings determines how life thrives, adapts, and evolves. For example, a fish's environment includes water temperature, oxygen levels, other aquatic creatures, and the chemical composition of the water.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 1b",
-    "topic": ["Environmental Education"],
-    "Question": {
-      "content": "List three components of environment with at least one example for each.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Physical component: e.g., soil.<br>2. Biological component: e.g., trees.<br>3. Socio-cultural component: e.g., language."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Three Pillars of Environment</h4><p><strong>Physical component:</strong> The non-living, tangible elements like landforms, climate, air, water, and minerals. Soil determines what plants can grow and what structures can be built.<br><strong>Biological component:</strong> All living organisms including flora, fauna, and microorganisms. Trees provide oxygen, habitat, and resources for countless species.<br><strong>Socio-cultural component:</strong> Human-created aspects like traditions, beliefs, laws, economics, and language that shape how communities interact with nature. Language carries indigenous knowledge about sustainable practices passed down generations.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 1c",
-    "topic": ["Environmental Education"],
-    "Question": {
-      "content": "State three types of environment with at least one example for each.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Natural environment: e.g., a forest.<br>2. Built environment: e.g., a city.<br>3. Social environment: e.g., a family."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classifying Environments</h4><p><strong>Natural environment:</strong> Exists without human intervention – forests, oceans, deserts, mountains. A forest functions as a self-regulating ecosystem with complex food webs, nutrient cycles, and biodiversity.<br><strong>Built environment:</strong> Human-constructed spaces – cities, roads, dams, buildings. A city represents modified landscapes with infrastructure designed for living, working, and transportation.<br><strong>Social environment:</strong> The cultural and interpersonal setting – family structures, community norms, institutions. A family shapes values, behaviors, and how individuals perceive and respond to environmental issues.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 1d",
-    "topic": ["Ecology", "Biology"],
-    "Question": {
-      "content": "Mention four factors which affect the growth and development of organisms in their environment with at least one example for each.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Temperature: e.g., high heat stunts plant growth.<br>2. Water: e.g., drought leads to wilting.<br>3. Light: e.g., insufficient light causes etiolation.<br>4. Nutrients: e.g., lack of nitrogen causes yellow leaves."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Abiotic Limiting Factors</h4><p><strong>Temperature:</strong> Enzymes function optimally within specific ranges; extreme heat denatures proteins, halting photosynthesis and growth. Desert plants adapt with thick cuticles, but sudden heat waves can still kill seedlings.<br><strong>Water:</strong> Essential for photosynthesis, nutrient transport, and cell turgor. Drought triggers stomatal closure, reduced growth, and eventual wilting as cells lose structural integrity.<br><strong>Light:</strong> Drives photosynthesis. In shade, plants stretch (etiolation) to reach light, producing weak, pale stems with small leaves, compromising structural strength and reproduction.<br><strong>Nutrients:</strong> Nitrogen is crucial for chlorophyll and proteins. Deficiency causes chlorosis (yellowing) starting in older leaves as the plant mobilizes limited nitrogen to new growth.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 1e",
-    "topic": ["Adult Education", "Socio-economics"],
-    "Question": {
-      "content": "With one example for each, list at least three categories of adulthood activity engaged by adults in their socio-economic environment.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Economic activity: e.g., farming.<br>2. Social activity: e.g., attending community meetings.<br>3. Educational activity: e.g., enrolling in a vocational training."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Adult Engagement Spheres</h4><p><strong>Economic activity:</strong> Work that generates income or sustains livelihoods – farming, trading, formal employment. Adults spend significant time in productive labor that connects them to natural resources and market systems.<br><strong>Social activity:</strong> Participation in community life – religious gatherings, cooperative societies, town hall meetings, festivals. These build social capital, networks of mutual support, and collective decision-making power.<br><strong>Educational activity:</strong> Pursuit of knowledge and skills – formal classes, workshops, on-the-job training, self-study. Adults learn to adapt to changing technologies, environmental conditions, and economic opportunities throughout their lives.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 1f",
-    "topic": ["Environmental Education", "Adult Education"],
-    "Question": {
-      "content": "Give five differences between environmental education and environmental adult education.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Target audience: Environmental education targets all ages; environmental adult education targets only adults.<br>2. Focus: Environmental education focuses on general awareness; environmental adult education focuses on solving immediate community problems.<br>3. Pedagogy: Environmental education is often didactic; environmental adult education is participatory and experiential.<br>4. Goal: Environmental education aims for long-term behavioral change; environmental adult education aims for immediate application.<br>5. Context: Environmental education is often formal schooling; environmental adult education is non-formal and community-based."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Distinguishing the Fields</h4><p><strong>Environmental Education (EE):</strong> A broad field for all ages, often integrated into school curricula, building foundational knowledge and values for lifelong environmental stewardship.<br><strong>Environmental Adult Education (EAE):</strong> A specialized sub-field that recognizes adults bring life experience, face immediate environmental challenges (like pollution affecting their farm), need practical solutions, learn best through dialogue and hands-on work, and prefer flexible, community-based settings. EAE connects environmental issues directly to livelihoods, health, and community well-being.</p></div>"
-    }
-  },
-  {
-    "type": "heading",
-    "heading": "Question 2"
-  },
-  {
-    "type": "Question",
-    "name": "Question 2a",
-    "topic": ["Sustainable Development", "Environmental Education"],
-    "Question": {
-      "content": "Define sustainable development as a concept.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Brundtland Definition (1987)</h4><p>This definition from the UN World Commission on Environment and Development has two key concepts:<br><strong>1. 'Needs':</strong> Prioritizing the essential needs of the world's poor, who are most vulnerable to environmental degradation.<br><strong>2. 'Limitations':</strong> Recognizing that technology and social organization cannot overcome environmental limits indefinitely. It implies intergenerational equity – we are trustees of the planet for our children and grandchildren. Sustainable development integrates economic growth, social inclusion, and environmental protection (the 'three pillars').</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 2b",
-    "topic": ["Socio-economics", "Development"],
-    "Question": {
-      "content": "What do you understand by the concept of socio-economic development?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Socio-economic development is the process of social and economic transformation in a society, characterized by improvements in income, education, health, and overall quality of life."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Beyond GDP Growth</h4><p>Socio-economic development measures progress not just by wealth creation but by how that wealth translates into human well-being. Key indicators include:<br>• Economic: income levels, employment, infrastructure<br>• Social: literacy rates, life expectancy, gender equality, access to healthcare<br>• Structural: democratic institutions, rule of law, social mobility<br>It's about expanding choices and capabilities – Amartya Sen's 'development as freedom' concept. A country can have high GDP but low socio-economic development if wealth is concentrated and social services are poor.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 2c",
-    "topic": ["Socio-economics", "Development"],
-    "Question": {
-      "content": "List five indices of socio-economic development.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Gross Domestic Product (GDP) per capita.<br>2. Literacy rate.<br>3. Life expectancy.<br>4. Access to clean water and sanitation.<br>5. Employment rate."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Measuring Human Progress</h4><p><strong>GDP per capita:</strong> Average economic output per person, indicating material living standards (though hides inequality).<br><strong>Literacy rate:</strong> Percentage of population able to read and write – a fundamental capability that enables participation in modern economy and society.<br><strong>Life expectancy:</strong> Average years a newborn can expect to live – reflects healthcare quality, nutrition, sanitation, and overall well-being.<br><strong>Clean water & sanitation:</strong> Access to safe drinking water and hygienic toilets – basic infrastructure that prevents disease and enables dignity.<br><strong>Employment rate:</strong> Percentage of working-age population with jobs – indicates economic participation and income security. Together, these form the Human Development Index (HDI) and related metrics.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 2d",
-    "topic": ["Socio-economics", "Environment"],
-    "Question": {
-      "content": "State five effects of socio-economic development.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Improved healthcare and reduced mortality.<br>2. Increased urbanization and migration to cities.<br>3. Environmental degradation from industrialization.<br>4. Higher educational attainment.<br>5. Widening income inequality between rich and poor."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Double-Edged Sword</h4><p><strong>Positive:</strong> Better medical facilities, vaccination, and nutrition reduce infant and maternal mortality; urbanization concentrates opportunities and services; education expands as families invest in schooling; women's empowerment often improves.<br><strong>Negative:</strong> Industrial pollution, habitat destruction, resource depletion; urbanization strains housing and infrastructure; income inequality often rises during early development stages (Kuznets curve); traditional livelihoods may be disrupted; consumption patterns shift toward higher environmental footprints. Sustainable development seeks to maximize positives while mitigating negatives.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 2e",
-    "topic": ["Environmental Education", "History"],
-    "Question": {
-      "content": "Mention four conferences that led to the development of environmental education.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Tbilisi Conference (1977).<br>2. Stockholm Conference (1972).<br>3. Rio Earth Summit (1992).<br>4. Belgrade Conference (1975)."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Milestones in Environmental Education</h4><p><strong>Stockholm 1972:</strong> UN Conference on the Human Environment – first global recognition that environmental problems needed international cooperation. Recommendation 96 specifically called for environmental education.<br><strong>Belgrade 1975:</strong> UNESCO-UNEP International Workshop – produced the Belgrade Charter, establishing fundamental principles: 'The goal of environmental education is to develop a world population that is aware of and concerned about the environment and its associated problems.'<br><strong>Tbilisi 1977:</strong> World's first intergovernmental conference on environmental education – adopted the Tbilisi Declaration, defining objectives (awareness, knowledge, attitudes, skills, participation) that remain foundational.<br><strong>Rio 1992:</strong> Earth Summit – Agenda 21, Chapter 36 on 'Promoting Education, Public Awareness and Training' integrated environmental education into sustainable development framework.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 2f",
-    "topic": ["Environmental Education", "Sustainable Development", "Adult Education"],
-    "Question": {
-      "content": "Identify two environmental adult education programs that could lead to the achievement of sustainable development goals.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Community-based sustainable agriculture training programs.<br>2. Adult literacy programs integrated with climate change adaptation strategies."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Programs Driving SDGs</h4><p><strong>Community-based sustainable agriculture:</strong> Trains farmers in agroecology, permaculture, water conservation, and organic methods. Directly contributes to SDG 2 (Zero Hunger), SDG 12 (Responsible Consumption), SDG 13 (Climate Action), and SDG 15 (Life on Land). These programs respect indigenous knowledge while introducing climate-smart techniques, improving yields while reducing environmental impact.<br><strong>Climate literacy for adults:</strong> Integrates reading, numeracy, and critical thinking with practical climate adaptation – interpreting weather forecasts, understanding insurance, implementing flood-resistant housing, diversifying livelihoods. Addresses SDG 4 (Quality Education), SDG 1 (No Poverty), SDG 13 (Climate Action), and builds community resilience. Both programs succeed because they are relevant to adults' daily lives and empower them as agents of change.</p></div>"
-    }
-  },
-  {
-    "type": "heading",
-    "heading": "Section B"
-  },
-  {
-    "type": "heading",
-    "heading": "Question 3"
-  },
-  {
-    "type": "Question",
-    "name": "Question 3a",
-    "topic": ["Adult Education", "Literacy"],
-    "Question": {
-      "content": "What do you understand by the term functional literacy?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Functional literacy is the ability to read, write, and perform basic numerical tasks sufficiently to function effectively in one's own social, economic, and environmental context."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Literacy for Real Life</h4><p>Traditional literacy simply means being able to read and write. Functional literacy goes further – it asks: 'Can the person use these skills in their daily life?' A functionally literate adult can:<br>• Read a fertilizer bag to apply correct dosage<br>• Calculate loan interest rates<br>• Understand a health pamphlet about malaria prevention<br>• Interpret weather warnings<br>• Fill out a voter registration form<br>• Follow instructions for water purification<br>This concept is crucial in adult education because adults need immediate, practical application. It recognizes that literacy is not a binary (literate/illiterate) but a continuum, and that skills must be relevant to learners' contexts.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 3b",
-    "topic": ["Environmental Education", "Adult Education", "Literacy"],
-    "Question": {
-      "content": "Discuss four functional literacy programs for effective environmental adult education.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Agro-ecological literacy: Teaching adults to read weather patterns, soil tests, and organic farming manuals for sustainable agriculture.<br>2. Water and sanitation literacy: Programs that combine reading skills with practical training on water conservation, purification, and hygiene practices.<br>3. Waste management literacy: Educating adults on reading recycling symbols, understanding waste segregation guidelines, and participating in community composting initiatives.<br>4. Climate change adaptation literacy: Using local language materials to help adults interpret early warning systems, understand disaster preparedness plans, and implement climate-resilient livelihoods."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Contextualizing Literacy for Environmental Action</h4><p><strong>Agro-ecological literacy:</strong> Farmers learn to read soil pH indicators, interpret rainfall data, understand pest life cycles from extension materials, and calculate organic fertilizer ratios. This transforms abstract literacy into increased yields and reduced chemical inputs.<br><strong>Water and sanitation literacy:</strong> Participants learn to read water quality test results, understand hygiene posters, calculate chlorine dosage, and interpret maintenance manuals for water pumps. This reduces waterborne diseases and empowers communities to manage their water resources.<br><strong>Waste management literacy:</strong> Adults learn to identify recyclable plastics by symbols, understand sorting guidelines, read composting instructions, and calculate waste reduction metrics. This turns waste from a problem into an economic opportunity through recycling and composting.<br><strong>Climate adaptation literacy:</strong> Learners interpret seasonal forecasts, read early warning bulletins, understand government disaster protocols, calculate risk assessments, and develop community adaptation plans. This saves lives and livelihoods during extreme weather events. All four programs succeed because they embed literacy skills within meaningful, practical environmental challenges.</p></div>"
-    }
-  },
-  {
-    "type": "heading",
-    "heading": "Question 4"
-  },
-  {
-    "type": "Question",
-    "name": "Question 4a",
-    "topic": ["Environmental Policy", "Adult Education", "International Relations"],
-    "Question": {
-      "content": "What is meant by international policies for environmental adult education?",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "International policies for environmental adult education are frameworks, agreements, and guidelines established by global bodies to promote, fund, and standardize adult learning initiatives that address environmental issues across national boundaries."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Global Governance of Learning</h4><p>Environmental problems cross borders, so solutions need coordination. International policies provide:<br><strong>Frameworks:</strong> Like UNESCO's Education for Sustainable Development (ESD) 2030 roadmap, setting global priorities.<br><strong>Agreements:</strong> Such as the Paris Agreement (Article 12 on education) requiring nations to include climate education in their plans.<br><strong>Funding mechanisms:</strong> The Global Environment Facility (GEF) channels resources to adult education projects.<br><strong>Standards:</strong> Defining quality environmental adult education, sharing best practices, and monitoring progress.<br><strong>Networks:</strong> Connecting practitioners across countries. These policies transform isolated local efforts into coordinated global movements, ensuring adult learners everywhere can access knowledge to tackle shared environmental challenges.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 4b",
-    "topic": ["Environmental Policy", "UNEP", "Adult Education"],
-    "Question": {
-      "content": "Outline and discuss the policies of the United Nations Environment Programme (UNEP) as an international environmental organization.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "UNEP's policies focus on: <br>1. Environmental education and awareness: Promoting education for sustainable development (ESD) through its Global Universities Partnership.<br>2. Capacity building: Providing training programs for developing nations on climate adaptation, green economy, and ecosystem management.<br>3. Assessment and monitoring: Producing the Global Environment Outlook (GEO) reports to inform policy.<br>4. Convention support: Facilitating implementation of multilateral agreements like the Paris Agreement and Convention on Biological Diversity."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>UNEP's Approach to Environmental Education</h4><p><strong>Education and Awareness:</strong> UNEP believes informed citizens are essential for environmental action. Through programs like the Global Universities Partnership on Environment and Sustainability (GUPES), it supports curriculum development, youth engagement, and public awareness campaigns reaching millions.<br><strong>Capacity Building:</strong> UNEP provides technical training to government officials, NGOs, and community leaders in developing countries – on topics from renewable energy policy to ecosystem restoration. This builds local expertise to implement environmental solutions.<br><strong>Assessment and Monitoring:</strong> The Global Environment Outlook (GEO) series is UNEP's flagship assessment, providing authoritative scientific analysis that guides policy decisions worldwide. These reports often highlight the role of education in environmental progress.<br><strong>Convention Support:</strong> UNEP serves as secretariat for multiple environmental treaties, ensuring that education provisions are implemented. For example, it helps countries develop climate literacy strategies under the Paris Agreement. Together, these policies create an integrated approach where education, capacity, science, and governance reinforce each other.</p></div>"
-    }
-  },
-  {
-    "type": "heading",
-    "heading": "Question 5"
-  },
-  {
-    "type": "Question",
-    "name": "Question 5a",
-    "topic": ["Deforestation", "Environment", "Conservation"],
-    "Question": {
-      "content": "Identify five causes of deforestation.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Agricultural expansion (commercial farming and cattle ranching).<br>2. Logging for timber and paper products.<br>3. Urbanization and infrastructure development.<br>4. Mining operations.<br>5. Wildfires (both natural and human-induced)."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What's Destroying Our Forests?</h4><p><strong>Agricultural expansion:</strong> Responsible for ~80% of deforestation globally. Large-scale cattle ranching in the Amazon, palm oil plantations in Southeast Asia, and subsistence farming all clear forests for crops or grazing land.<br><strong>Logging:</strong> Both legal and illegal timber extraction for construction, furniture, and paper. Selective logging degrades forests, making them more vulnerable to fire, while clear-cutting removes entire stands.<br><strong>Urbanization:</strong> Cities expand into forests as populations grow – roads, housing, industrial zones, and hydroelectric dams fragment habitats and directly remove forest cover.<br><strong>Mining:</strong> Surface mining for gold, coal, iron ore, and other minerals strips vegetation and contaminates soils. Access roads open previously remote forests to further exploitation.<br><strong>Wildfires:</strong> Some are natural, but most are human-caused (land clearing, discarded cigarettes). Climate change intensifies fire seasons, creating feedback loops where burned forests release carbon, accelerating warming.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 5b",
-    "topic": ["Deforestation", "Environment", "Climate"],
-    "Question": {
-      "content": "State five effects of deforestation on the environment.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Loss of biodiversity and habitat extinction.<br>2. Increased greenhouse gas emissions contributing to climate change.<br>3. Soil erosion and desertification.<br>4. Disruption of water cycles leading to reduced rainfall.<br>5. Increased flooding and landslides."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ripple Effects of Forest Loss</h4><p><strong>Biodiversity loss:</strong> Forests house ~80% of terrestrial species. Deforestation destroys habitat, fragments populations, and drives extinction. Orangutans, jaguars, and countless insects and plants face population collapse.<br><strong>Climate change:</strong> Forests are carbon sinks. Clearing and burning them releases stored carbon (deforestation accounts for ~10-15% of global emissions), while removing future carbon capture capacity – a double climate blow.<br><strong>Soil erosion:</strong> Tree roots bind soil. Without them, rain washes away nutrient-rich topsoil, reducing agricultural productivity and causing desertification. This triggers a cycle of land degradation and further clearing.<br><strong>Water cycle disruption:</strong> Forests transpire huge volumes of water, generating rainfall downwind. Deforestation reduces rainfall, creating drought conditions and affecting agriculture far beyond cleared areas.<br><strong>Flooding and landslides:</strong> Forests absorb and slow water. Without this buffer, heavy rains cause flash floods and landslides, devastating downstream communities.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 5c",
-    "topic": ["Energy", "Resources", "Environment"],
-    "Question": {
-      "content": "State the difference between energy resources with two examples of each.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Renewable energy resources are naturally replenished on a human timescale; examples: solar, wind. Non-renewable energy resources exist in finite quantities and are depleted with use; examples: coal, crude oil."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Renewable vs. Non-Renewable Energy</h4><p><strong>Renewable energy resources:</strong> Replenish naturally and indefinitely on human timescales. <em>Solar power</em> harnesses sunlight that will continue for billions of years – infinite, clean, with no fuel costs after installation. <em>Wind power</em> uses atmospheric circulation driven by solar heating. Others include hydropower, geothermal, and biomass (if sustainably managed).<br><strong>Non-renewable energy resources:</strong> Formed over millions of years and consumed faster than they can regenerate. <em>Coal</em> is fossilized ancient plant matter; burning it releases stored carbon and pollutants. <em>Crude oil</em> (petroleum) from ancient marine organisms powers transportation and plastics. These are finite – extraction costs rise as reserves deplete, and combustion drives climate change. The transition to renewables is central to sustainable development.</p></div>"
-    }
-  },
-  {
-    "type": "heading",
-    "heading": "Question 6"
-  },
-  {
-    "type": "Question",
-    "name": "Question 6a",
-    "topic": ["Pollution", "Environment", "Health"],
-    "Question": {
-      "content": "Define the term pollution.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Pollution is the introduction of harmful substances or contaminants into the natural environment that cause adverse effects on living organisms and ecosystems."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Makes Pollution?</h4><p>Three elements define pollution: <strong>Source, Pathway, Receptor.</strong> A substance (source) must be introduced (pathway) in quantities that exceed environmental capacity, causing harm (receptor). Natural substances become pollutants when concentrated – e.g., nitrogen from fertilizers running into rivers causes algal blooms, suffocating aquatic life. The key is harm: pollution isn't just presence of foreign substances, but presence at levels that damage health, ecosystems, or property. The World Health Organization estimates pollution causes ~9 million premature deaths annually, making it the world's largest environmental health risk.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 6b",
-    "topic": ["Pollution", "Environment"],
-    "Question": {
-      "content": "Mention five types of pollution with an example of each of their pollutants.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Air pollution: sulfur dioxide from industrial smokestacks.<br>2. Water pollution: raw sewage discharged into rivers.<br>3. Soil pollution: pesticide runoff from agricultural fields.<br>4. Noise pollution: traffic noise in urban areas.<br>5. Plastic pollution: microplastics in ocean waters."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pollution Across Environmental Media</h4><p><strong>Air pollution:</strong> Gases and particulates in the atmosphere. Sulfur dioxide from coal burning causes acid rain, respiratory disease, and damages buildings.<br><strong>Water pollution:</strong> Contamination of rivers, lakes, oceans. Raw sewage introduces pathogens, nutrients, and organic waste, causing disease and oxygen depletion that kills fish.<br><strong>Soil pollution:</strong> Contamination of land. Persistent pesticides like DDT (though banned) remain in soil for decades, entering food chains and harming non-target species.<br><strong>Noise pollution:</strong> Excessive, harmful sound. Urban traffic noise causes hearing loss, stress, cardiovascular problems, and disrupts wildlife communication.<br><strong>Plastic pollution:</strong> Persistent synthetic materials. Microplastics (from breakdown of larger plastics) enter food webs, accumulate in organisms, and carry toxic additives. Each type requires different monitoring, regulation, and remediation strategies.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 6c",
-    "topic": ["Waste Management", "Environment", "Health"],
-    "Question": {
-      "content": "Differentiate between hazardous and non-hazardous wastes.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "Hazardous waste possesses properties that make it dangerous to human health or the environment (toxic, flammable, corrosive, reactive). Non-hazardous waste does not exhibit these dangerous characteristics and includes ordinary municipal waste like food scraps and paper."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Classification Matters</h4><p><strong>Hazardous waste:</strong> Exhibits characteristics (ignitability, corrosivity, reactivity, toxicity) or is listed specifically by regulations. Examples: industrial solvents, batteries, pesticides, medical waste, radioactive materials. These require special handling, secure storage, specific treatment, and disposal in engineered landfills to prevent environmental release. Mismanagement can cause severe health crises (e.g., Love Canal, Bhopal).<br><strong>Non-hazardous waste:</strong> Does not meet hazard criteria. Municipal solid waste (household trash), construction debris, agricultural waste (unless contaminated). While generally safer, large volumes still pose environmental challenges – landfills produce methane, incineration releases pollutants, and mismanagement causes visual pollution and habitat degradation. The distinction determines regulatory requirements, costs, and treatment pathways.</p></div>"
-    }
-  },
-  {
-    "type": "Question",
-    "name": "Question 6d",
-    "topic": ["Waste Management", "Environment", "Safety"],
-    "Question": {
-      "content": "State five properties of a hazardous waste.",
-      "type": "subjective"
-    },
-    "Answer": {
-      "type": "string",
-      "content": "1. Toxicity: capable of causing injury or death when ingested, absorbed, or inhaled.<br>2. Ignitability: easily catches fire (flash point below 60°C).<br>3. Corrosivity: destroys living tissue or corrodes metal (pH ≤ 2 or ≥ 12.5).<br>4. Reactivity: unstable and undergoes violent chemical changes when mixed with water.<br>5. Persistence: remains in the environment without breaking down for long periods."
-    },
-    "Explanation": {
-      "type": "string",
-      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hazardous Waste Characteristics</h4><p><strong>Toxicity:</strong> The ability to cause harm even in small doses. Heavy metals (lead, mercury), certain pesticides, and industrial chemicals can cause cancer, organ damage, or developmental problems through ingestion, inhalation, or skin contact.<br><strong>Ignitability:</strong> Flammable liquids with flash point <60°C (e.g., gasoline, paint thinners) pose fire and explosion risks during storage, transport, and disposal.<br><strong>Corrosivity:</strong> Strong acids (pH ≤2) or bases (pH ≥12.5) that destroy living tissue and corrode steel containers (e.g., battery acid, industrial cleaners).<br><strong>Reactivity:</strong> Unstable substances that explode or release toxic gases when heated, compressed, or mixed with water (e.g., certain peroxides, cyanide wastes).<br><strong>Persistence:</strong> Substances like PCBs and DDT resist environmental degradation, bioaccumulate through food chains, and remain dangerous for decades. These properties guide waste classification, treatment selection (incineration for organics, stabilization for metals), and disposal site requirements.</p></div>"
-    }
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Environment</h4><p>The word 'environment' comes from the French word 'environner' meaning 'to surround'. It includes everything around us – both living (biotic) like plants, animals, and microorganisms, and non-living (abiotic) like air, water, soil, sunlight, temperature, and even human-made structures. This interaction between organisms and their surroundings determines how life thrives, adapts, and evolves. For example, a fish's environment includes water temperature, oxygen levels, other aquatic creatures, and the chemical composition of the water.</p></div>"
   }
-]
+},
+{
+  "type": "Question",
+  "name": "Question 1b",
+  "topic": ["Environmental Education"],
+  "Question": {
+    "content": "List three components of environment with at least one example for each.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Physical component: e.g., soil.<br>2. Biological component: e.g., trees.<br>3. Socio-cultural component: e.g., language."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Three Pillars of Environment</h4><p><strong>Physical component:</strong> The non-living, tangible elements like landforms, climate, air, water, and minerals. Soil determines what plants can grow and what structures can be built.<br><strong>Biological component:</strong> All living organisms including flora, fauna, and microorganisms. Trees provide oxygen, habitat, and resources for countless species.<br><strong>Socio-cultural component:</strong> Human-created aspects like traditions, beliefs, laws, economics, and language that shape how communities interact with nature. Language carries indigenous knowledge about sustainable practices passed down generations.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 1c",
+  "topic": ["Environmental Education"],
+  "Question": {
+    "content": "State three types of environment with at least one example for each.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Natural environment: e.g., a forest.<br>2. Built environment: e.g., a city.<br>3. Social environment: e.g., a family."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classifying Environments</h4><p><strong>Natural environment:</strong> Exists without human intervention – forests, oceans, deserts, mountains. A forest functions as a self-regulating ecosystem with complex food webs, nutrient cycles, and biodiversity.<br><strong>Built environment:</strong> Human-constructed spaces – cities, roads, dams, buildings. A city represents modified landscapes with infrastructure designed for living, working, and transportation.<br><strong>Social environment:</strong> The cultural and interpersonal setting – family structures, community norms, institutions. A family shapes values, behaviors, and how individuals perceive and respond to environmental issues.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 1d",
+  "topic": ["Ecology", "Biology"],
+  "Question": {
+    "content": "Mention four factors which affect the growth and development of organisms in their environment with at least one example for each.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Temperature: e.g., high heat stunts plant growth.<br>2. Water: e.g., drought leads to wilting.<br>3. Light: e.g., insufficient light causes etiolation.<br>4. Nutrients: e.g., lack of nitrogen causes yellow leaves."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Abiotic Limiting Factors</h4><p><strong>Temperature:</strong> Enzymes function optimally within specific ranges; extreme heat denatures proteins, halting photosynthesis and growth. Desert plants adapt with thick cuticles, but sudden heat waves can still kill seedlings.<br><strong>Water:</strong> Essential for photosynthesis, nutrient transport, and cell turgor. Drought triggers stomatal closure, reduced growth, and eventual wilting as cells lose structural integrity.<br><strong>Light:</strong> Drives photosynthesis. In shade, plants stretch (etiolation) to reach light, producing weak, pale stems with small leaves, compromising structural strength and reproduction.<br><strong>Nutrients:</strong> Nitrogen is crucial for chlorophyll and proteins. Deficiency causes chlorosis (yellowing) starting in older leaves as the plant mobilizes limited nitrogen to new growth.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 1e",
+  "topic": ["Adult Education", "Socio-economics"],
+  "Question": {
+    "content": "With one example for each, list at least three categories of adulthood activity engaged by adults in their socio-economic environment.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Economic activity: e.g., farming.<br>2. Social activity: e.g., attending community meetings.<br>3. Educational activity: e.g., enrolling in a vocational training."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Adult Engagement Spheres</h4><p><strong>Economic activity:</strong> Work that generates income or sustains livelihoods – farming, trading, formal employment. Adults spend significant time in productive labor that connects them to natural resources and market systems.<br><strong>Social activity:</strong> Participation in community life – religious gatherings, cooperative societies, town hall meetings, festivals. These build social capital, networks of mutual support, and collective decision-making power.<br><strong>Educational activity:</strong> Pursuit of knowledge and skills – formal classes, workshops, on-the-job training, self-study. Adults learn to adapt to changing technologies, environmental conditions, and economic opportunities throughout their lives.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 1f",
+  "topic": ["Environmental Education", "Adult Education"],
+  "Question": {
+    "content": "Give five differences between environmental education and environmental adult education.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Target audience: Environmental education targets all ages; environmental adult education targets only adults.<br>2. Focus: Environmental education focuses on general awareness; environmental adult education focuses on solving immediate community problems.<br>3. Pedagogy: Environmental education is often didactic; environmental adult education is participatory and experiential.<br>4. Goal: Environmental education aims for long-term behavioral change; environmental adult education aims for immediate application.<br>5. Context: Environmental education is often formal schooling; environmental adult education is non-formal and community-based."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Distinguishing the Fields</h4><p><strong>Environmental Education (EE):</strong> A broad field for all ages, often integrated into school curricula, building foundational knowledge and values for lifelong environmental stewardship.<br><strong>Environmental Adult Education (EAE):</strong> A specialized sub-field that recognizes adults bring life experience, face immediate environmental challenges (like pollution affecting their farm), need practical solutions, learn best through dialogue and hands-on work, and prefer flexible, community-based settings. EAE connects environmental issues directly to livelihoods, health, and community well-being.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Question 2"
+},
+{
+  "type": "Question",
+  "name": "Question 2a",
+  "topic": ["Sustainable Development", "Environmental Education"],
+  "Question": {
+    "content": "Define sustainable development as a concept.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Brundtland Definition (1987)</h4><p>This definition from the UN World Commission on Environment and Development has two key concepts:<br><strong>1. 'Needs':</strong> Prioritizing the essential needs of the world's poor, who are most vulnerable to environmental degradation.<br><strong>2. 'Limitations':</strong> Recognizing that technology and social organization cannot overcome environmental limits indefinitely. It implies intergenerational equity – we are trustees of the planet for our children and grandchildren. Sustainable development integrates economic growth, social inclusion, and environmental protection (the 'three pillars').</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2b",
+  "topic": ["Socio-economics", "Development"],
+  "Question": {
+    "content": "What do you understand by the concept of socio-economic development?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Socio-economic development is the process of social and economic transformation in a society, characterized by improvements in income, education, health, and overall quality of life."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Beyond GDP Growth</h4><p>Socio-economic development measures progress not just by wealth creation but by how that wealth translates into human well-being. Key indicators include:<br>• Economic: income levels, employment, infrastructure<br>• Social: literacy rates, life expectancy, gender equality, access to healthcare<br>• Structural: democratic institutions, rule of law, social mobility<br>It's about expanding choices and capabilities – Amartya Sen's 'development as freedom' concept. A country can have high GDP but low socio-economic development if wealth is concentrated and social services are poor.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2c",
+  "topic": ["Socio-economics", "Development"],
+  "Question": {
+    "content": "List five indices of socio-economic development.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Gross Domestic Product (GDP) per capita.<br>2. Literacy rate.<br>3. Life expectancy.<br>4. Access to clean water and sanitation.<br>5. Employment rate."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Measuring Human Progress</h4><p><strong>GDP per capita:</strong> Average economic output per person, indicating material living standards (though hides inequality).<br><strong>Literacy rate:</strong> Percentage of population able to read and write – a fundamental capability that enables participation in modern economy and society.<br><strong>Life expectancy:</strong> Average years a newborn can expect to live – reflects healthcare quality, nutrition, sanitation, and overall well-being.<br><strong>Clean water & sanitation:</strong> Access to safe drinking water and hygienic toilets – basic infrastructure that prevents disease and enables dignity.<br><strong>Employment rate:</strong> Percentage of working-age population with jobs – indicates economic participation and income security. Together, these form the Human Development Index (HDI) and related metrics.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2d",
+  "topic": ["Socio-economics", "Environment"],
+  "Question": {
+    "content": "State five effects of socio-economic development.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Improved healthcare and reduced mortality.<br>2. Increased urbanization and migration to cities.<br>3. Environmental degradation from industrialization.<br>4. Higher educational attainment.<br>5. Widening income inequality between rich and poor."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Double-Edged Sword</h4><p><strong>Positive:</strong> Better medical facilities, vaccination, and nutrition reduce infant and maternal mortality; urbanization concentrates opportunities and services; education expands as families invest in schooling; women's empowerment often improves.<br><strong>Negative:</strong> Industrial pollution, habitat destruction, resource depletion; urbanization strains housing and infrastructure; income inequality often rises during early development stages (Kuznets curve); traditional livelihoods may be disrupted; consumption patterns shift toward higher environmental footprints. Sustainable development seeks to maximize positives while mitigating negatives.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2e",
+  "topic": ["Environmental Education", "History"],
+  "Question": {
+    "content": "Mention four conferences that led to the development of environmental education.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Tbilisi Conference (1977).<br>2. Stockholm Conference (1972).<br>3. Rio Earth Summit (1992).<br>4. Belgrade Conference (1975)."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Milestones in Environmental Education</h4><p><strong>Stockholm 1972:</strong> UN Conference on the Human Environment – first global recognition that environmental problems needed international cooperation. Recommendation 96 specifically called for environmental education.<br><strong>Belgrade 1975:</strong> UNESCO-UNEP International Workshop – produced the Belgrade Charter, establishing fundamental principles: 'The goal of environmental education is to develop a world population that is aware of and concerned about the environment and its associated problems.'<br><strong>Tbilisi 1977:</strong> World's first intergovernmental conference on environmental education – adopted the Tbilisi Declaration, defining objectives (awareness, knowledge, attitudes, skills, participation) that remain foundational.<br><strong>Rio 1992:</strong> Earth Summit – Agenda 21, Chapter 36 on 'Promoting Education, Public Awareness and Training' integrated environmental education into sustainable development framework.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2f",
+  "topic": ["Environmental Education", "Sustainable Development", "Adult Education"],
+  "Question": {
+    "content": "Identify two environmental adult education programs that could lead to the achievement of sustainable development goals.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Community-based sustainable agriculture training programs.<br>2. Adult literacy programs integrated with climate change adaptation strategies."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Programs Driving SDGs</h4><p><strong>Community-based sustainable agriculture:</strong> Trains farmers in agroecology, permaculture, water conservation, and organic methods. Directly contributes to SDG 2 (Zero Hunger), SDG 12 (Responsible Consumption), SDG 13 (Climate Action), and SDG 15 (Life on Land). These programs respect indigenous knowledge while introducing climate-smart techniques, improving yields while reducing environmental impact.<br><strong>Climate literacy for adults:</strong> Integrates reading, numeracy, and critical thinking with practical climate adaptation – interpreting weather forecasts, understanding insurance, implementing flood-resistant housing, diversifying livelihoods. Addresses SDG 4 (Quality Education), SDG 1 (No Poverty), SDG 13 (Climate Action), and builds community resilience. Both programs succeed because they are relevant to adults' daily lives and empower them as agents of change.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Section B"
+},
+{
+  "type": "heading",
+  "heading": "Question 3"
+},
+{
+  "type": "Question",
+  "name": "Question 3a",
+  "topic": ["Adult Education", "Literacy"],
+  "Question": {
+    "content": "What do you understand by the term functional literacy?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Functional literacy is the ability to read, write, and perform basic numerical tasks sufficiently to function effectively in one's own social, economic, and environmental context."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Literacy for Real Life</h4><p>Traditional literacy simply means being able to read and write. Functional literacy goes further – it asks: 'Can the person use these skills in their daily life?' A functionally literate adult can:<br>• Read a fertilizer bag to apply correct dosage<br>• Calculate loan interest rates<br>• Understand a health pamphlet about malaria prevention<br>• Interpret weather warnings<br>• Fill out a voter registration form<br>• Follow instructions for water purification<br>This concept is crucial in adult education because adults need immediate, practical application. It recognizes that literacy is not a binary (literate/illiterate) but a continuum, and that skills must be relevant to learners' contexts.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3b",
+  "topic": ["Environmental Education", "Adult Education", "Literacy"],
+  "Question": {
+    "content": "Discuss four functional literacy programs for effective environmental adult education.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Agro-ecological literacy: Teaching adults to read weather patterns, soil tests, and organic farming manuals for sustainable agriculture.<br>2. Water and sanitation literacy: Programs that combine reading skills with practical training on water conservation, purification, and hygiene practices.<br>3. Waste management literacy: Educating adults on reading recycling symbols, understanding waste segregation guidelines, and participating in community composting initiatives.<br>4. Climate change adaptation literacy: Using local language materials to help adults interpret early warning systems, understand disaster preparedness plans, and implement climate-resilient livelihoods."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Contextualizing Literacy for Environmental Action</h4><p><strong>Agro-ecological literacy:</strong> Farmers learn to read soil pH indicators, interpret rainfall data, understand pest life cycles from extension materials, and calculate organic fertilizer ratios. This transforms abstract literacy into increased yields and reduced chemical inputs.<br><strong>Water and sanitation literacy:</strong> Participants learn to read water quality test results, understand hygiene posters, calculate chlorine dosage, and interpret maintenance manuals for water pumps. This reduces waterborne diseases and empowers communities to manage their water resources.<br><strong>Waste management literacy:</strong> Adults learn to identify recyclable plastics by symbols, understand sorting guidelines, read composting instructions, and calculate waste reduction metrics. This turns waste from a problem into an economic opportunity through recycling and composting.<br><strong>Climate adaptation literacy:</strong> Learners interpret seasonal forecasts, read early warning bulletins, understand government disaster protocols, calculate risk assessments, and develop community adaptation plans. This saves lives and livelihoods during extreme weather events. All four programs succeed because they embed literacy skills within meaningful, practical environmental challenges.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Question 4"
+},
+{
+  "type": "Question",
+  "name": "Question 4a",
+  "topic": ["Environmental Policy", "Adult Education", "International Relations"],
+  "Question": {
+    "content": "What is meant by international policies for environmental adult education?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "International policies for environmental adult education are frameworks, agreements, and guidelines established by global bodies to promote, fund, and standardize adult learning initiatives that address environmental issues across national boundaries."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Global Governance of Learning</h4><p>Environmental problems cross borders, so solutions need coordination. International policies provide:<br><strong>Frameworks:</strong> Like UNESCO's Education for Sustainable Development (ESD) 2030 roadmap, setting global priorities.<br><strong>Agreements:</strong> Such as the Paris Agreement (Article 12 on education) requiring nations to include climate education in their plans.<br><strong>Funding mechanisms:</strong> The Global Environment Facility (GEF) channels resources to adult education projects.<br><strong>Standards:</strong> Defining quality environmental adult education, sharing best practices, and monitoring progress.<br><strong>Networks:</strong> Connecting practitioners across countries. These policies transform isolated local efforts into coordinated global movements, ensuring adult learners everywhere can access knowledge to tackle shared environmental challenges.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4b",
+  "topic": ["Environmental Policy", "UNEP", "Adult Education"],
+  "Question": {
+    "content": "Outline and discuss the policies of the United Nations Environment Programme (UNEP) as an international environmental organization.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "UNEP's policies focus on: <br>1. Environmental education and awareness: Promoting education for sustainable development (ESD) through its Global Universities Partnership.<br>2. Capacity building: Providing training programs for developing nations on climate adaptation, green economy, and ecosystem management.<br>3. Assessment and monitoring: Producing the Global Environment Outlook (GEO) reports to inform policy.<br>4. Convention support: Facilitating implementation of multilateral agreements like the Paris Agreement and Convention on Biological Diversity."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>UNEP's Approach to Environmental Education</h4><p><strong>Education and Awareness:</strong> UNEP believes informed citizens are essential for environmental action. Through programs like the Global Universities Partnership on Environment and Sustainability (GUPES), it supports curriculum development, youth engagement, and public awareness campaigns reaching millions.<br><strong>Capacity Building:</strong> UNEP provides technical training to government officials, NGOs, and community leaders in developing countries – on topics from renewable energy policy to ecosystem restoration. This builds local expertise to implement environmental solutions.<br><strong>Assessment and Monitoring:</strong> The Global Environment Outlook (GEO) series is UNEP's flagship assessment, providing authoritative scientific analysis that guides policy decisions worldwide. These reports often highlight the role of education in environmental progress.<br><strong>Convention Support:</strong> UNEP serves as secretariat for multiple environmental treaties, ensuring that education provisions are implemented. For example, it helps countries develop climate literacy strategies under the Paris Agreement. Together, these policies create an integrated approach where education, capacity, science, and governance reinforce each other.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Question 5"
+},
+{
+  "type": "Question",
+  "name": "Question 5a",
+  "topic": ["Deforestation", "Environment", "Conservation"],
+  "Question": {
+    "content": "Identify five causes of deforestation.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Agricultural expansion (commercial farming and cattle ranching).<br>2. Logging for timber and paper products.<br>3. Urbanization and infrastructure development.<br>4. Mining operations.<br>5. Wildfires (both natural and human-induced)."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What's Destroying Our Forests?</h4><p><strong>Agricultural expansion:</strong> Responsible for ~80% of deforestation globally. Large-scale cattle ranching in the Amazon, palm oil plantations in Southeast Asia, and subsistence farming all clear forests for crops or grazing land.<br><strong>Logging:</strong> Both legal and illegal timber extraction for construction, furniture, and paper. Selective logging degrades forests, making them more vulnerable to fire, while clear-cutting removes entire stands.<br><strong>Urbanization:</strong> Cities expand into forests as populations grow – roads, housing, industrial zones, and hydroelectric dams fragment habitats and directly remove forest cover.<br><strong>Mining:</strong> Surface mining for gold, coal, iron ore, and other minerals strips vegetation and contaminates soils. Access roads open previously remote forests to further exploitation.<br><strong>Wildfires:</strong> Some are natural, but most are human-caused (land clearing, discarded cigarettes). Climate change intensifies fire seasons, creating feedback loops where burned forests release carbon, accelerating warming.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5b",
+  "topic": ["Deforestation", "Environment", "Climate"],
+  "Question": {
+    "content": "State five effects of deforestation on the environment.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Loss of biodiversity and habitat extinction.<br>2. Increased greenhouse gas emissions contributing to climate change.<br>3. Soil erosion and desertification.<br>4. Disruption of water cycles leading to reduced rainfall.<br>5. Increased flooding and landslides."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ripple Effects of Forest Loss</h4><p><strong>Biodiversity loss:</strong> Forests house ~80% of terrestrial species. Deforestation destroys habitat, fragments populations, and drives extinction. Orangutans, jaguars, and countless insects and plants face population collapse.<br><strong>Climate change:</strong> Forests are carbon sinks. Clearing and burning them releases stored carbon (deforestation accounts for ~10-15% of global emissions), while removing future carbon capture capacity – a double climate blow.<br><strong>Soil erosion:</strong> Tree roots bind soil. Without them, rain washes away nutrient-rich topsoil, reducing agricultural productivity and causing desertification. This triggers a cycle of land degradation and further clearing.<br><strong>Water cycle disruption:</strong> Forests transpire huge volumes of water, generating rainfall downwind. Deforestation reduces rainfall, creating drought conditions and affecting agriculture far beyond cleared areas.<br><strong>Flooding and landslides:</strong> Forests absorb and slow water. Without this buffer, heavy rains cause flash floods and landslides, devastating downstream communities.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5c",
+  "topic": ["Energy", "Resources", "Environment"],
+  "Question": {
+    "content": "State the difference between energy resources with two examples of each.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Renewable energy resources are naturally replenished on a human timescale; examples: solar, wind. Non-renewable energy resources exist in finite quantities and are depleted with use; examples: coal, crude oil."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Renewable vs. Non-Renewable Energy</h4><p><strong>Renewable energy resources:</strong> Replenish naturally and indefinitely on human timescales. <em>Solar power</em> harnesses sunlight that will continue for billions of years – infinite, clean, with no fuel costs after installation. <em>Wind power</em> uses atmospheric circulation driven by solar heating. Others include hydropower, geothermal, and biomass (if sustainably managed).<br><strong>Non-renewable energy resources:</strong> Formed over millions of years and consumed faster than they can regenerate. <em>Coal</em> is fossilized ancient plant matter; burning it releases stored carbon and pollutants. <em>Crude oil</em> (petroleum) from ancient marine organisms powers transportation and plastics. These are finite – extraction costs rise as reserves deplete, and combustion drives climate change. The transition to renewables is central to sustainable development.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Question 6"
+},
+{
+  "type": "Question",
+  "name": "Question 6a",
+  "topic": ["Pollution", "Environment", "Health"],
+  "Question": {
+    "content": "Define the term pollution.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Pollution is the introduction of harmful substances or contaminants into the natural environment that cause adverse effects on living organisms and ecosystems."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Makes Pollution?</h4><p>Three elements define pollution: <strong>Source, Pathway, Receptor.</strong> A substance (source) must be introduced (pathway) in quantities that exceed environmental capacity, causing harm (receptor). Natural substances become pollutants when concentrated – e.g., nitrogen from fertilizers running into rivers causes algal blooms, suffocating aquatic life. The key is harm: pollution isn't just presence of foreign substances, but presence at levels that damage health, ecosystems, or property. The World Health Organization estimates pollution causes ~9 million premature deaths annually, making it the world's largest environmental health risk.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6b",
+  "topic": ["Pollution", "Environment"],
+  "Question": {
+    "content": "Mention five types of pollution with an example of each of their pollutants.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Air pollution: sulfur dioxide from industrial smokestacks.<br>2. Water pollution: raw sewage discharged into rivers.<br>3. Soil pollution: pesticide runoff from agricultural fields.<br>4. Noise pollution: traffic noise in urban areas.<br>5. Plastic pollution: microplastics in ocean waters."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pollution Across Environmental Media</h4><p><strong>Air pollution:</strong> Gases and particulates in the atmosphere. Sulfur dioxide from coal burning causes acid rain, respiratory disease, and damages buildings.<br><strong>Water pollution:</strong> Contamination of rivers, lakes, oceans. Raw sewage introduces pathogens, nutrients, and organic waste, causing disease and oxygen depletion that kills fish.<br><strong>Soil pollution:</strong> Contamination of land. Persistent pesticides like DDT (though banned) remain in soil for decades, entering food chains and harming non-target species.<br><strong>Noise pollution:</strong> Excessive, harmful sound. Urban traffic noise causes hearing loss, stress, cardiovascular problems, and disrupts wildlife communication.<br><strong>Plastic pollution:</strong> Persistent synthetic materials. Microplastics (from breakdown of larger plastics) enter food webs, accumulate in organisms, and carry toxic additives. Each type requires different monitoring, regulation, and remediation strategies.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6c",
+  "topic": ["Waste Management", "Environment", "Health"],
+  "Question": {
+    "content": "Differentiate between hazardous and non-hazardous wastes.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Hazardous waste possesses properties that make it dangerous to human health or the environment (toxic, flammable, corrosive, reactive). Non-hazardous waste does not exhibit these dangerous characteristics and includes ordinary municipal waste like food scraps and paper."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Classification Matters</h4><p><strong>Hazardous waste:</strong> Exhibits characteristics (ignitability, corrosivity, reactivity, toxicity) or is listed specifically by regulations. Examples: industrial solvents, batteries, pesticides, medical waste, radioactive materials. These require special handling, secure storage, specific treatment, and disposal in engineered landfills to prevent environmental release. Mismanagement can cause severe health crises (e.g., Love Canal, Bhopal).<br><strong>Non-hazardous waste:</strong> Does not meet hazard criteria. Municipal solid waste (household trash), construction debris, agricultural waste (unless contaminated). While generally safer, large volumes still pose environmental challenges – landfills produce methane, incineration releases pollutants, and mismanagement causes visual pollution and habitat degradation. The distinction determines regulatory requirements, costs, and treatment pathways.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6d",
+  "topic": ["Waste Management", "Environment", "Safety"],
+  "Question": {
+    "content": "State five properties of a hazardous waste.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1. Toxicity: capable of causing injury or death when ingested, absorbed, or inhaled.<br>2. Ignitability: easily catches fire (flash point below 60°C).<br>3. Corrosivity: destroys living tissue or corrodes metal (pH ≤ 2 or ≥ 12.5).<br>4. Reactivity: unstable and undergoes violent chemical changes when mixed with water.<br>5. Persistence: remains in the environment without breaking down for long periods."
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hazardous Waste Characteristics</h4><p><strong>Toxicity:</strong> The ability to cause harm even in small doses. Heavy metals (lead, mercury), certain pesticides, and industrial chemicals can cause cancer, organ damage, or developmental problems through ingestion, inhalation, or skin contact.<br><strong>Ignitability:</strong> Flammable liquids with flash point <60°C (e.g., gasoline, paint thinners) pose fire and explosion risks during storage, transport, and disposal.<br><strong>Corrosivity:</strong> Strong acids (pH ≤2) or bases (pH ≥12.5) that destroy living tissue and corrode steel containers (e.g., battery acid, industrial cleaners).<br><strong>Reactivity:</strong> Unstable substances that explode or release toxic gases when heated, compressed, or mixed with water (e.g., certain peroxides, cyanide wastes).<br><strong>Persistence:</strong> Substances like PCBs and DDT resist environmental degradation, bioaccumulate through food chains, and remain dangerous for decades. These properties guide waste classification, treatment selection (incineration for organics, stabilization for metals), and disposal site requirements.</p></div>"
+  }
+}]
