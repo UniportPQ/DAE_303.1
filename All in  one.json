@@ -1,0 +1,818 @@
+[
+{
+  "type": "pageInfo",
+  "kind": "exam",
+  "course_title": "Introduction to Environmental Adult Education",
+  "code": "DAE 303.1",
+  "session": "All in 1",
+  "topics": [
+    "Environmental Education", "Adult Education", "Environment", "Ecology", "Biology", "Socio-economics", "Sustainable Development", "History", "Development", "Deforestation", "Nigeria", "Climate", "Pollution", "Waste Management", "Poverty", "Population", "Energy", "Literacy", "International Policy", "WWF", "IPCC", "UNDP", "Environmental Organizations"
+  ],
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Instruction: Answer all questions. Each question carries equal marks."
+},
+{
+  "type": "heading",
+  "heading": "Unit One: Environmental Adult Education Concept and Context"
+},
+{
+  "type": "Question",
+  "name": "Question 1",
+  "topic": ["Environmental Education", "Adult Education"],
+  "Question": {
+    "content": "Which of the following best describes the primary focus of environmental adult education as distinguished from general environmental education?",
+    "type": "OBJ",
+    "options": [
+      "Building foundational environmental knowledge in school children",
+      "Addressing immediate, practical environmental problems through participatory learning with adults",
+      "Conducting scientific research on climate change impacts",
+      "Developing international environmental treaties and agreements"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Addressing immediate, practical environmental problems through participatory learning with adults"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Distinction</h4><p>Environmental adult education specifically targets adults with participatory, experiential methods focused on solving real community environmental problems, unlike general environmental education which targets all ages often in formal school settings.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 2",
+  "topic": ["Environment", "Adult Education"],
+  "Question": {
+    "content": "The concept of 'environment' in environmental adult education encompasses all of the following EXCEPT:",
+    "type": "OBJ",
+    "options": [
+      "Physical components like soil and climate",
+      "Biological components like plants and animals",
+      "Socio-cultural components like language and traditions",
+      "Purely virtual digital spaces with no physical manifestation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Purely virtual digital spaces with no physical manifestation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Environment Definition</h4><p>The environment includes physical, biological, and socio-cultural components that surround and affect living organisms. While digital spaces exist, the core environmental concept focuses on tangible surroundings affecting life and development.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 3",
+  "topic": ["Ecology", "Biology"],
+  "Question": {
+    "content": "When a plant grows tall, pale, and spindly with small leaves due to insufficient light, this condition is scientifically termed:",
+    "type": "OBJ",
+    "options": [
+      "Chlorosis",
+      "Etiolation",
+      "Senescence",
+      "Abscission"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Etiolation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Etiolation Explained</h4><p>Etiolation is the plant's response to insufficient light, characterized by elongated stems, pale coloration (due to lack of chlorophyll), and small leaves as the plant stretches toward available light.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 4",
+  "topic": ["Adult Education", "Socio-economics"],
+  "Question": {
+    "content": "Which of the following is an example of an economic activity engaged in by adults within their socio-economic environment?",
+    "type": "OBJ",
+    "options": [
+      "Attending a village town hall meeting",
+      "Enrolling in a vocational training workshop",
+      "Farming for household consumption and market sale",
+      "Participating in a religious festival"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Farming for household consumption and market sale"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Economic Activities</h4><p>Economic activities involve production, distribution, and consumption of goods and services. Farming directly generates income and food, making it a primary economic activity for many adults in Nigeria and across Africa.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 5",
+  "topic": ["Environmental Education", "Adult Education"],
+  "Question": {
+    "content": "Which of the following is a defining characteristic of the pedagogical approach used in environmental adult education?",
+    "type": "OBJ",
+    "options": [
+      "Teacher-centered lectures with passive learners",
+      "Participatory and experiential methods based on learners' life experiences",
+      "Strictly textbook-based instruction",
+      "Focus solely on theoretical environmental concepts"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Participatory and experiential methods based on learners' life experiences"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Andragogy in Practice</h4><p>Environmental adult education is grounded in andragogy (adult learning theory), emphasizing participatory, dialogue-based, experiential methods that draw on adults' existing knowledge and address their immediate concerns.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 6",
+  "topic": ["Environmental Education"],
+  "Question": {
+    "content": "The three components of the environment are:",
+    "type": "OBJ",
+    "options": [
+      "Natural, artificial, and spiritual",
+      "Physical, biological, and socio-cultural",
+      "Urban, rural, and coastal",
+      "Atmospheric, terrestrial, and aquatic"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Physical, biological, and socio-cultural"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Environmental Components</h4><p>The environment consists of physical (abiotic) elements like soil and climate, biological (biotic) elements like plants and animals, and socio-cultural elements like traditions, language, and economic systems that shape human-environment interactions.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 7",
+  "topic": ["Environmental Education"],
+  "Question": {
+    "content": "Which of the following statements best reflects the goal of environmental adult education?",
+    "type": "OBJ",
+    "options": [
+      "To prepare children for environmental science careers",
+      "To empower adults with knowledge and skills for immediate environmental action in their communities",
+      "To conduct environmental impact assessments for corporations",
+      "To develop advanced climate modeling software"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "To empower adults with knowledge and skills for immediate environmental action in their communities"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Goal of EAE</h4><p>Environmental adult education aims to equip adults with practical knowledge and skills to address environmental challenges they face daily, empowering them as agents of change in their own communities rather than passive recipients of information.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Unit Two: Environmental Education for Sustainable Development"
+},
+{
+  "type": "Question",
+  "name": "Question 8",
+  "topic": ["Sustainable Development"],
+  "Question": {
+    "content": "The most widely accepted definition of sustainable development comes from the Brundtland Commission (1987), which states that sustainable development:",
+    "type": "OBJ",
+    "options": [
+      "Prioritizes economic growth above all other considerations",
+      "Meets present needs without compromising future generations' ability to meet their own needs",
+      "Focuses exclusively on environmental conservation",
+      "Requires complete cessation of all industrial activity"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Meets present needs without compromising future generations' ability to meet their own needs"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Brundtland Definition</h4><p>This foundational definition from 'Our Common Future' emphasizes intergenerational equity – we must meet current needs (especially of the poor) while ensuring future generations inherit resources and environmental quality sufficient for their own needs.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 9",
+  "topic": ["Socio-economics"],
+  "Question": {
+    "content": "Which of the following is an indicator of socio-economic development?",
+    "type": "OBJ",
+    "options": [
+      "Number of registered political parties",
+      "Gross Domestic Product (GDP) per capita",
+      "Total land area of a country",
+      "Annual rainfall measurements"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Gross Domestic Product (GDP) per capita"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Socio-Economic Indicators</h4><p>GDP per capita measures average economic output per person and is a key indicator of material living standards, along with literacy rates, life expectancy, and access to clean water and sanitation.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 10",
+  "topic": ["Socio-economics", "Environment"],
+  "Question": {
+    "content": "One negative effect of socio-economic development on the environment is:",
+    "type": "OBJ",
+    "options": [
+      "Improved healthcare outcomes",
+      "Increased urbanization and industrial pollution",
+      "Higher literacy rates",
+      "Reduced infant mortality"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Increased urbanization and industrial pollution"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Development's Environmental Costs</h4><p>While socio-economic development brings benefits like better healthcare and education, it often comes with environmental costs including pollution from industrialization, habitat loss from urban expansion, and increased resource consumption.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 11",
+  "topic": ["Sustainable Development"],
+  "Question": {
+    "content": "The three pillars of sustainable development are:",
+    "type": "OBJ",
+    "options": [
+      "Agriculture, industry, and services",
+      "Economic growth, social equity, and environmental protection",
+      "Local, national, and international cooperation",
+      "Education, health, and infrastructure"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Economic growth, social equity, and environmental protection"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Three Pillars</h4><p>Sustainable development integrates economic viability (growth), social equity (fair distribution and inclusion), and environmental protection (preserving natural systems). True sustainability requires balancing all three.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 12",
+  "topic": ["Environmental Education", "History"],
+  "Question": {
+    "content": "Which 1977 conference is considered a landmark event that established the fundamental objectives of environmental education (awareness, knowledge, attitudes, skills, participation)?",
+    "type": "OBJ",
+    "options": [
+      "Stockholm Conference",
+      "Belgrade Conference",
+      "Tbilisi Conference",
+      "Rio Earth Summit"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Tbilisi Conference"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Tbilisi Declaration</h4><p>The 1977 Tbilisi Intergovernmental Conference on Environmental Education produced the Tbilisi Declaration, which remains the foundational framework defining environmental education's objectives and principles.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 13",
+  "topic": ["Sustainable Development", "Adult Education"],
+  "Question": {
+    "content": "A community-based sustainable agriculture training program that teaches farmers agroecological practices directly contributes to which Sustainable Development Goal?",
+    "type": "OBJ",
+    "options": [
+      "SDG 1 (No Poverty)",
+      "SDG 2 (Zero Hunger)",
+      "SDG 13 (Climate Action)",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "All of the above"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Multiple SDG Contributions</h4><p>Sustainable agriculture addresses Zero Hunger (SDG 2) through improved food security, No Poverty (SDG 1) through increased farm incomes, and Climate Action (SDG 13) through carbon sequestration and adaptation practices.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 14",
+  "topic": ["Socio-economics", "Development"],
+  "Question": {
+    "content": "The term 'North-South Dichotomy' in development discourse refers to:",
+    "type": "OBJ",
+    "options": [
+      "Geographical temperature differences between hemispheres",
+      "The economic and developmental divide between wealthy industrialized nations (Global North) and developing countries (Global South)",
+      "Agricultural practices in northern versus southern Nigeria",
+      "Differences in environmental regulations between countries"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "The economic and developmental divide between wealthy industrialized nations (Global North) and developing countries (Global South)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>North-South Divide</h4><p>This concept highlights global inequalities where industrialized nations (mostly Northern hemisphere) have higher wealth and consumption, while developing countries (mostly Southern hemisphere) face greater poverty and environmental vulnerability yet bear disproportionate impacts of global environmental problems.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Unit Three: Elements of Environmental Adult Education (with special reference to Africa)"
+},
+{
+  "type": "Question",
+  "name": "Question 15",
+  "topic": ["Deforestation", "Nigeria"],
+  "Question": {
+    "content": "Which of the following is a major cause of deforestation in Nigeria?",
+    "type": "OBJ",
+    "options": [
+      "Excessive rainfall",
+      "Agricultural expansion and fuelwood collection",
+      "Wildlife conservation programs",
+      "Reduced population growth"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Agricultural expansion and fuelwood collection"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Deforestation Drivers</h4><p>Nigeria loses 3-4% of its remaining forest annually primarily due to agricultural expansion (subsistence and commercial farming) and heavy reliance on fuelwood for cooking by over 70% of households.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 16",
+  "topic": ["Deforestation", "Climate"],
+  "Question": {
+    "content": "Which of the following is an environmental effect of deforestation?",
+    "type": "OBJ",
+    "options": [
+      "Increased soil fertility",
+      "Enhanced water cycle regulation",
+      "Loss of biodiversity and increased greenhouse gas emissions",
+      "Reduced flooding and landslides"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Loss of biodiversity and increased greenhouse gas emissions"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Consequences of Forest Loss</h4><p>Deforestation causes biodiversity loss (habitat destruction), releases stored carbon (increasing emissions), disrupts water cycles, causes soil erosion, and increases flood risk – creating cascading environmental impacts.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 17",
+  "topic": ["Pollution", "Environment"],
+  "Question": {
+    "content": "Which type of pollution is caused by sulfur dioxide emissions from industrial smokestacks?",
+    "type": "OBJ",
+    "options": [
+      "Water pollution",
+      "Soil pollution",
+      "Air pollution",
+      "Noise pollution"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Air pollution"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Air Pollution Sources</h4><p>Sulfur dioxide is a gaseous pollutant released primarily from burning coal and oil. It causes respiratory illness, contributes to acid rain, and forms fine particulate matter that harms human health and ecosystems.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 18",
+  "topic": ["Waste Management"],
+  "Question": {
+    "content": "A waste that is toxic, flammable, corrosive, or reactive is classified as:",
+    "type": "OBJ",
+    "options": [
+      "Municipal solid waste",
+      "Hazardous waste",
+      "Biodegradable waste",
+      "Agricultural waste"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Hazardous waste"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hazardous Waste Characteristics</h4><p>Hazardous waste exhibits one or more dangerous properties: toxicity (poisonous), ignitability (flammable), corrosivity (destroys tissue/metal), or reactivity (unstable). These require special handling and disposal.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 19",
+  "topic": ["Poverty", "Environment"],
+  "Question": {
+    "content": "The relationship between poverty and the environment is often described as a 'poverty trap' because:",
+    "type": "OBJ",
+    "options": [
+      "Poverty has no connection to environmental conditions",
+      "Poor communities over-rely on natural resources for survival, leading to degradation that further impoverishes them",
+      "Environmental degradation only affects wealthy communities",
+      "Poor communities have the most resources to invest in conservation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Poor communities over-rely on natural resources for survival, leading to degradation that further impoverishes them"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Poverty-Environment Nexus</h4><p>The poverty trap occurs when lack of alternatives forces poor communities to overexploit natural resources (fuelwood, bushmeat, marginal land) for survival, leading to environmental degradation that further reduces their resource base and deepens poverty.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 20",
+  "topic": ["Population", "Environment"],
+  "Question": {
+    "content": "Which of the following statements best describes the relationship between population growth and environmental pressure in Africa?",
+    "type": "OBJ",
+    "options": [
+      "Population growth has no impact on environmental resources",
+      "Rapid population growth increases demand for land, water, and energy, intensifying pressure on natural resources",
+      "Population growth automatically leads to environmental protection",
+      "Only urban population growth affects the environment"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Rapid population growth increases demand for land, water, and energy, intensifying pressure on natural resources"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Population-Environment Link</h4><p>Africa's rapid population growth increases demand for agricultural land, water, fuelwood, and housing, often leading to deforestation, water scarcity, and land degradation unless accompanied by sustainable resource management and family planning access.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 21",
+  "topic": ["Energy", "Environment"],
+  "Question": {
+    "content": "In Nigeria, the majority of rural households rely on which energy source for cooking, contributing to deforestation?",
+    "type": "OBJ",
+    "options": [
+      "Solar power",
+      "Natural gas",
+      "Fuelwood and charcoal",
+      "Electricity"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Fuelwood and charcoal"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Energy Dependence</h4><p>Over 70% of Nigerian households, particularly in rural areas, rely on fuelwood and charcoal for cooking due to limited access to electricity, gas, and affordable alternatives, making this a major driver of deforestation.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Unit Four: Literacy and Environmental Adult Education"
+},
+{
+  "type": "Question",
+  "name": "Question 22",
+  "topic": ["Literacy", "Adult Education"],
+  "Question": {
+    "content": "Functional literacy differs from basic literacy because it emphasizes:",
+    "type": "OBJ",
+    "options": [
+      "Reading classical literature",
+      "The ability to use reading, writing, and numeracy skills in real-life contexts",
+      "Memorizing vocabulary lists",
+      "Writing academic essays"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "The ability to use reading, writing, and numeracy skills in real-life contexts"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Functional Literacy Defined</h4><p>Functional literacy focuses on applying literacy skills to practical daily activities – reading fertilizer instructions, calculating loan interest, interpreting weather warnings – rather than abstract academic skills.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 23",
+  "topic": ["Literacy", "Environmental Education"],
+  "Question": {
+    "content": "Why is literacy considered important in environmental adult education?",
+    "type": "OBJ",
+    "options": [
+      "It enables adults to access environmental information, understand policies, and make informed decisions",
+      "It replaces the need for practical environmental skills",
+      "It is only useful for academic environmental studies",
+      "It has no connection to environmental management"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "It enables adults to access environmental information, understand policies, and make informed decisions"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Literacy as Gateway</h4><p>Literacy empowers adults to read pesticide labels, understand environmental regulations, interpret weather forecasts, engage with policy documents, and document community knowledge – all essential for effective environmental action.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 24",
+  "topic": ["Literacy", "Adult Education"],
+  "Question": {
+    "content": "The problem-posing approach to integrating literacy with environmental adult education, based on Paulo Freire's work, involves:",
+    "type": "OBJ",
+    "options": [
+      "Using standardized textbooks from other countries",
+      "Starting with concrete community environmental problems and developing literacy skills around addressing them",
+      "Focusing only on reading without discussion",
+      "Avoiding environmental content in literacy classes"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Starting with concrete community environmental problems and developing literacy skills around addressing them"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Problem-Posing Method</h4><p>Freire's critical pedagogy uses dialogue about real problems (e.g., polluted stream) to generate reading, writing, and action, making literacy meaningful and empowering rather than abstract and disconnected.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "topic": ["Literacy", "Environmental Education"],
+  "Question": {
+    "content": "An integrated approach to environmental adult education means:",
+    "type": "OBJ",
+    "options": [
+      "Teaching literacy and environmental content separately",
+      "Embedding literacy instruction within environmental content so learners acquire both simultaneously",
+      "Focusing only on environmental science without literacy",
+      "Using only oral instruction without any written materials"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Embedding literacy instruction within environmental content so learners acquire both simultaneously"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Integration Principle</h4><p>Integration means literacy is not taught in isolation. Instead, learners develop reading, writing, and numeracy skills while learning about sustainable agriculture, water conservation, or waste management – making both more relevant and effective.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "topic": ["Literacy", "Adult Education"],
+  "Question": {
+    "content": "Developing locally relevant literacy materials in local languages about environmental challenges is an example of:",
+    "type": "OBJ",
+    "options": [
+      "Community-based materials development",
+      "Importing foreign educational resources",
+      "Standardized curriculum implementation",
+      "The banking model of education"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Community-based materials development"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Local Materials Matter</h4><p>Creating materials with and for the community – using local languages, local examples, and addressing local problems – increases relevance, ownership, and learning effectiveness compared to imported or generic materials.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "topic": ["Literacy", "Environmental Education"],
+  "Question": {
+    "content": "Which approach to environmental adult education would best help farmers understand and respond to climate change information?",
+    "type": "OBJ",
+    "options": [
+      "Teaching climate science separately from literacy",
+      "An integrated approach combining literacy skills with practical climate adaptation content using local weather data",
+      "Focusing only on traditional farming without new information",
+      "Avoiding written materials entirely"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "An integrated approach combining literacy skills with practical climate adaptation content using local weather data"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Climate Literacy Integration</h4><p>Farmers need both literacy skills and climate knowledge – reading forecasts, interpreting early warnings, understanding adaptation strategies – which is best achieved through integrated programs that build both capacities together.</p></div>"
+  }
+},
+{
+  "type": "heading",
+  "heading": "Unit Five: International Policies on Environmental Adult Education"
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "topic": ["International Policy", "Environmental Education"],
+  "Question": {
+    "content": "Agenda 21, adopted at the 1992 Rio Earth Summit, dedicates Chapter 36 to:",
+    "type": "OBJ",
+    "options": [
+      "International trade regulations",
+      "Promoting education, public awareness, and training",
+      "Maritime law",
+      "Nuclear energy policies"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Promoting education, public awareness, and training"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Agenda 21 Chapter 36</h4><p>This chapter explicitly recognizes education, public awareness, and training as essential for sustainable development, calling on governments to integrate environmental education into all levels of formal and non-formal learning.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 29",
+  "topic": ["International Policy", "WWF"],
+  "Question": {
+    "content": "The World Wide Fund for Nature (WWF) contributes to environmental adult education primarily through:",
+    "type": "OBJ",
+    "options": [
+      "Military interventions",
+      "Community-based conservation education, teacher training, and development of educational resources",
+      "Banking and financial services",
+      "International trade negotiations"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Community-based conservation education, teacher training, and development of educational resources"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>WWF's Education Role</h4><p>WWF implements international conservation policies through practical education programs including community-based natural resource management, teacher training, and culturally appropriate educational materials in local languages.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 30",
+  "topic": ["International Policy", "IPCC"],
+  "Question": {
+    "content": "The Intergovernmental Panel on Climate Change (IPCC) primarily contributes to environmental adult education by:",
+    "type": "OBJ",
+    "options": [
+      "Building schools in developing countries",
+      "Providing authoritative scientific assessments that inform climate education and awareness programs",
+      "Directly teaching adult literacy classes",
+      "Enforcing environmental laws"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Providing authoritative scientific assessments that inform climate education and awareness programs"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>IPCC's Contribution</h4><p>The IPCC synthesizes global climate science, providing the evidence base used by educators, governments, and organizations to develop climate literacy programs and adaptation training for adults worldwide.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 31",
+  "topic": ["International Policy", "UNDP"],
+  "Question": {
+    "content": "The United Nations Development Programme (UNDP) supports environmental adult education through:",
+    "type": "OBJ",
+    "options": [
+      "Military operations",
+      "Capacity building programs, training for sustainable development, and community-level environmental projects",
+      "International banking regulations",
+      "Space exploration"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Capacity building programs, training for sustainable development, and community-level environmental projects"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>UNDP's Role</h4><p>UNDP works in over 170 countries, supporting national and local capacity for sustainable development through training programs, community projects, and integration of environmental education into development planning.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 32",
+  "topic": ["International Policy", "Environmental Organizations"],
+  "Question": {
+    "content": "Friends of the Earth is an example of:",
+    "type": "OBJ",
+    "options": [
+      "A government agency",
+      "An international environmental advocacy organization that engages in public education and campaigns",
+      "A United Nations body",
+      "A private corporation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "An international environmental advocacy organization that engages in public education and campaigns"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NGO Role</h4><p>Friends of the Earth is a grassroots environmental network active in over 70 countries, conducting public education campaigns, community organizing, and advocacy to advance environmental justice and sustainable policies.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 33",
+  "topic": ["International Policy"],
+  "Question": {
+    "content": "The concept of 'Education for Sustainable Development' (ESD) was significantly advanced by which international body?",
+    "type": "OBJ",
+    "options": [
+      "World Trade Organization (WTO)",
+      "UNESCO (United Nations Educational, Scientific and Cultural Organization)",
+      "International Monetary Fund (IMF)",
+      "FIFA"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "UNESCO (United Nations Educational, Scientific and Cultural Organization)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>UNESCO's Leadership</h4><p>UNESCO leads the global Education for Sustainable Development (ESD) framework, coordinating international efforts to integrate sustainability principles into education systems at all levels.</p></div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 34",
+  "topic": ["International Policy", "Environmental Education"],
+  "Question": {
+    "content": "Which international policy framework explicitly recognizes the role of public awareness and training in achieving environmental goals and calls for integrating environmental education into all levels of learning?",
+    "type": "OBJ",
+    "options": [
+      "The Montreal Protocol",
+      "Agenda 21 (Chapter 36)",
+      "The Kyoto Protocol",
+      "The Paris Agreement (Article 6)"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Agenda 21 (Chapter 36)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'><h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Agenda 21's Education Mandate</h4><p>Agenda 21 remains the most comprehensive international policy document specifically detailing education's role in sustainable development, with Chapter 36 providing specific guidance for governments and organizations.</p></div>"
+  }
+}]
